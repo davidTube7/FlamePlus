@@ -1,0 +1,58 @@
+a {
+  display: inline-block;
+  height: 100px; /*sets height of element*/
+  width: 100px;
+  background: rgb(24, 24, 24); /*sets the background of this element (here a solid colour)*/
+  transition: all 0.5s; /*sets a transition (for hover effect)*/
+  line-height: 50px; /*for this, it sets vertical alignment*/
+  border-radius: 10px;
+}
+a:hover {
+  background: rgb(31, 31, 31); /*sets background colour*/
+}
+
+.centerimg {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 55%;
+}
+
+.center {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+.centerimg2 {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 55%;
+}
+
+.center2 {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
+}
