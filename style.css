@@ -1,14 +1,14 @@
 a {
   display: inline-block;
-  height: 100px; /*sets height of element*/
+  height: 100px;
   width: 100px;
-  background: rgb(24, 24, 24); /*sets the background of this element (here a solid colour)*/
-  transition: all 0.5s; /*sets a transition (for hover effect)*/
-  line-height: 50px; /*for this, it sets vertical alignment*/
+  background: rgb(24, 24, 24);
+  transition: all 0.5s;
+  line-height: 50px;
   border-radius: 10px;
 }
 a:hover {
-  background: rgb(31, 31, 31); /*sets background colour*/
+  background: rgb(31, 31, 31);
 }
 
 .centerimg {
@@ -30,8 +30,6 @@ a:hover {
   bottom: 0;
   cursor: pointer;
 }
-
-
 
 
 
